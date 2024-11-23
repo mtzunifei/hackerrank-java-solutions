@@ -4,7 +4,7 @@ This repository contains <b>efficient hackerrank solutions</b> for most of the <
 Este repositório contém <b>eficientes soluções do hackerrank</b> para maior dos <b>desafios do hackerrank</b>
 # JAVA
 
-|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
 |          Subdomain          |                                                         Challenge                                                       		 		|
 |        Introduction   	  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                               		 		|
 |        Introduction         | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                		 		|
