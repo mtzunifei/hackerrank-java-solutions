@@ -1,7 +1,6 @@
 # hackerrank-java-solutions
 
-This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges</b> 
-Este repositório contém <b>eficientes soluções do hackerrank</b> para maior dos <b>desafios do hackerrank</b>
+Este repositório contém as <b>soluções do hackerrank</b> na linguagem Java.
 # JAVA
 
 |          Subdomain          |                                                         Challenge                                                       		 		|
