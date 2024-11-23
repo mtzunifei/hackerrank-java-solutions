@@ -4,8 +4,8 @@ This repository contains <b>efficient hackerrank solutions</b> for most of the <
 Este repositório contém <b>eficientes soluções do hackerrank</b> para maior dos <b>desafios do hackerrank</b>
 # JAVA
 
-|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
 |          Subdomain          |                                                         Challenge                                                       		 		|
+|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
 |        Introduction   	  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                               		 		|
 |        Introduction         | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                		 		|
 |        Introduction         | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                                      		 		|
@@ -16,8 +16,8 @@ Este repositório contém <b>eficientes soluções do hackerrank</b> para maior 
 |        Introduction         | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)                                                  		 		|
 |        Introduction         | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)                                              		 		|
 |        Introduction         | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)            		 		|
-|        Introduction         | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)           					    		 		    |
-|        Introduction         | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)           					    		 		    |
+|        Introduction         | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)           					    		 		|
+|        Introduction         | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)           					    		 		|
 |        Introduction         | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)           								|
 |           Strings   	      | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)           							|
 |           Strings   	      | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)           					            		 		|
